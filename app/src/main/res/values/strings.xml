@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">kotlinWithPzy</string>
+    <string name="hello_darwin">Hello Darwin</string>
+    <string name="dame_un_click">dame un click ;)</string>
+</resources>
